@@ -1,0 +1,22 @@
+year: 1962
+start_date: 1962-01-01
+end_date: 1962-12-31
+
+days:
+  1962-10-16:
+    label: "Cuban Missile Crisis begins"
+    note: "U.S. intelligence identifies Soviet missile deployments in Cuba."
+  1962-10-22:
+    label: "Missile Crisis quarantine speech"
+    note: "President Kennedy addresses the nation and announces a naval quarantine of Cuba."
+  1962-10-24:
+    label: "Cuba quarantine line"
+    note: "U.S. naval quarantine operations begin during the Cuban Missile Crisis."
+  1962-10-28:
+    label: "Missile Crisis settlement"
+    note: "Khrushchev announces that Soviet missiles in Cuba will be dismantled."
+
+months:
+  1962-10:
+    label: "Cuban Missile Crisis"
+    note: "The October crisis dominates 1962 references in the JFK release."
